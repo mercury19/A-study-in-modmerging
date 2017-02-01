@@ -42,3 +42,6 @@ Could just make this a separate WRECK Plugin Installer
 Hell I could make it a general OSP kit installer
 
 I'll see if anyone on the forums would be interested in using it, possibly even helping out. I don't think it'll be horribly complicated though
+
+
+See wrecker.py for an idea of what I have in mind
